@@ -12,10 +12,10 @@ To run and plot data: make plot
 |  Eigen with DZVP |
 Temp     |  Inversion Probability   |    Time series
 :--------|:---------------:|:---------------:
-   50    | <img src="plots_output/Eigen-050inv.png" width="400">|<img src="plots_output/Eigen-050-tim.png" width="400"> 
-   100   | <img src="plots_output/Eigen-100inv.png" width="400">|<img src="plots_output/Eigen-100-tim.png" width="400"> 
-   150   | <img src="plots_output/Eigen-150inv.png" width="400">|<img src="plots_output/Eigen-150-tim.png" width="400"> 
-   300   | <img src="plots_output/Eigen-300inv.png" width="400">|<img src="plots_output/Eigen-300-tim.png" width="400"> 
+   50    | <img src="plots_output/Eigen-050inv.png" width="350">|<img src="plots_output/Eigen-050-tim.png" width="350"> 
+   100   | <img src="plots_output/Eigen-100inv.png" width="350">|<img src="plots_output/Eigen-100-tim.png" width="350"> 
+   150   | <img src="plots_output/Eigen-150inv.png" width="350">|<img src="plots_output/Eigen-150-tim.png" width="350"> 
+   300   | <img src="plots_output/Eigen-300inv.png" width="350">|<img src="plots_output/Eigen-300-tim.png" width="350"> 
 
 
 |  Zundel Cation with DZVP |
