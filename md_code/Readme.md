@@ -8,6 +8,7 @@ To run and plot data: make plot
 
 ## Table of plots
 
+
 |  Eigen with DZVP |
 Temp     |  Inversion Probability   |    Time series
 :--------|:---------------:|:---------------:
